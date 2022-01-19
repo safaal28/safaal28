@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an undergraduate Computer Science student at the University of Toronto. 
+
 <!--
 **safaal28/safaal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
