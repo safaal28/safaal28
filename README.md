@@ -3,7 +3,7 @@
 - I’m a software developer interested in full-stack development and cybersecurity.
 - I love learning about psychology, sustainability, and art history.
 - I'm especially passionate about (tech ∩ deen). 
-- ⚡ Fun facts: I play soccer weekly, I'm learning ASL, and I solve wordle's and octordle's daily. 
+⚡ Fun facts: I play soccer weekly, I'm learning ASL, and I solve [wordle's](https://www.nytimes.com/games/wordle/index.html) and [octordle's](https://octordle.com/) daily. 
 
 
 
