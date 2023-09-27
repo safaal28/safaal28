@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm an undergraduate Computer Science student at the University of Toronto. 
+- I’m a software developer interested in full-stack development and cybersecurity.
+- I love learning about psychology, sustainability, and art history.
+- I'm especially passionate about (tech ∩ deen). 
+- ⚡ Fun facts: I play soccer weekly, I'm learning ASL, and I solve wordle's and octordle's daily. 
+
+
 
 <!--
 **safaal28/safaal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +13,6 @@ I'm an undergraduate Computer Science student at the University of Toronto.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
